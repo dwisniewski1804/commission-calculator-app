@@ -8,13 +8,19 @@ Number means that the commission is flat and does not depend on complicated rule
 Classname means that under the rule some complication is hidden.
 
 ##Run application in CLI 
-To do it just use:
+Before first run please install all dependencies:
+`composer install`
+
+and dump autoload:
+`composer dump-autoload`
+
+Then to run it with example input, use:
 `composer run go`
 
 ##Input/output explanation
 1. Example input file is located here `tests/input/input.csv`
 
-2. Example output file is located here `tests/output/output.csv`
+2. Example output file is located here `tests/output/output.csv` (only for function tests)
 
 They can be both used in tests or in manual run.
 
