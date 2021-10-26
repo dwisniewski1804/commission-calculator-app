@@ -25,7 +25,7 @@ Then to run it with example input, use:
 They can be both used in tests or in manual run.
 
 ##Code style
-PHPCodeStyleFixer is used here to improve quality and standarisation of our code.
+PHPCodeStyleFixer is used here to improve quality and standardisation of our code.
 You can read about it here:
 https://cs.symfony.com/doc/rules/index.html
 
